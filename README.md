@@ -23,7 +23,7 @@ public class Ejemplo00 {
 }
 ```
 #### Respuesta aquí
-
+Presenta el valor 17 ya que es la suma de todos los valores del arreglo datos, la Funcion misterio hace que se haga la suma y en la funcion main solo presenta el valor  
 #### Fin respuesta
 
 ***
